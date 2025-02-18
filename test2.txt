@@ -1,2 +1,1 @@
-lalal
-"hello world"
+"today is goog"
